@@ -1,0 +1,800 @@
+[
+    {
+        "nomor": "1",
+        "ayat": "7",
+        "surah": "Al-Fatihah",
+        "surah_arab": " \u0627\u0644\u0641\u0627\u062a\u062d\u0629",
+        "terjemah": "Pembukaan"
+    },
+    {
+        "nomor": "2",
+        "ayat": "286",
+        "surah": "Al-Baqarah",
+        "surah_arab": " \u0627\u0644\u0628\u0642\u0631\u0629",
+        "terjemah": "Sapi"
+    },
+    {
+        "nomor": "3",
+        "ayat": "200",
+        "surah": "Ali 'Imran",
+        "surah_arab": " \u0627\u0670\u0644 \u0639\u0645\u0631\u0627\u0646",
+        "terjemah": "Keluarga Imran"
+    },
+    {
+        "nomor": "4",
+        "ayat": "176",
+        "surah": "An-Nisa'",
+        "surah_arab": " \u0627\u0644\u0646\u0633\u0627\u06e4\u0621",
+        "terjemah": "Wanita"
+    },
+    {
+        "nomor": "5",
+        "ayat": "120",
+        "surah": "Al-Ma'idah",
+        "surah_arab": " \u0627\u0644\u0645\u0627\u06e4\u0626\u062f\u0629",
+        "terjemah": "Hidangan"
+    },
+    {
+        "nomor": "6",
+        "ayat": "165",
+        "surah": "Al-An'am",
+        "surah_arab": " \u0627\u0644\u0627\u0646\u0639\u0627\u0645",
+        "terjemah": "Binatang Ternak"
+    },
+    {
+        "nomor": "7",
+        "ayat": "206",
+        "surah": "Al-A'raf",
+        "surah_arab": " \u0627\u0644\u0627\u0639\u0631\u0627\u0641",
+        "terjemah": "Tempat Tertinggi"
+    },
+    {
+        "nomor": "8",
+        "ayat": "75",
+        "surah": "Al-Anfal",
+        "surah_arab": " \u0627\u0644\u0627\u0646\u0641\u0627\u0644",
+        "terjemah": "Rampasan Perang"
+    },
+    {
+        "nomor": "9",
+        "ayat": "129",
+        "surah": "At-Taubah",
+        "surah_arab": " \u0627\u0644\u062a\u0648\u0628\u0629",
+        "terjemah": "Pengampunan"
+    },
+    {
+        "nomor": "10",
+        "ayat": "109",
+        "surah": "Yunus",
+        "surah_arab": " \u064a\u0648\u0646\u0633",
+        "terjemah": "Yunus"
+    },
+    {
+        "nomor": "11",
+        "ayat": "123",
+        "surah": "Hud",
+        "surah_arab": " \u0647\u0648\u062f",
+        "terjemah": "Hud"
+    },
+    {
+        "nomor": "12",
+        "ayat": "111",
+        "surah": "Yusuf",
+        "surah_arab": " \u064a\u0648\u0633\u0641",
+        "terjemah": "Yusuf"
+    },
+    {
+        "nomor": "13",
+        "ayat": "43",
+        "surah": "Ar-Ra'd",
+        "surah_arab": " \u0627\u0644\u0631\u0651\u0639\u062f",
+        "terjemah": "Guruh"
+    },
+    {
+        "nomor": "14",
+        "ayat": "52",
+        "surah": "Ibrahim",
+        "surah_arab": " \u0627\u0628\u0631\u0670\u0647\u064a\u0645",
+        "terjemah": "Ibrahim"
+    },
+    {
+        "nomor": "15",
+        "ayat": "99",
+        "surah": "Al-Hijr",
+        "surah_arab": " \u0627\u0644\u062d\u062c\u0631",
+        "terjemah": "Hijr"
+    },
+    {
+        "nomor": "16",
+        "ayat": "128",
+        "surah": "An-Nahl",
+        "surah_arab": " \u0627\u0644\u0646\u062d\u0644",
+        "terjemah": "Lebah"
+    },
+    {
+        "nomor": "17",
+        "ayat": "111",
+        "surah": "Al-Isra'",
+        "surah_arab": " \u0627\u0644\u0627\u0633\u0631\u0627\u06e4\u0621",
+        "terjemah": "Memperjalankan Malam Hari"
+    },
+    {
+        "nomor": "18",
+        "ayat": "110",
+        "surah": "Al-Kahf",
+        "surah_arab": " \u0627\u0644\u0643\u0647\u0641",
+        "terjemah": "Goa"
+    },
+    {
+        "nomor": "19",
+        "ayat": "98",
+        "surah": "Maryam",
+        "surah_arab": " \u0645\u0631\u064a\u0645",
+        "terjemah": "Maryam"
+    },
+    {
+        "nomor": "20",
+        "ayat": "135",
+        "surah": "Taha",
+        "surah_arab": " \u0637\u0670\u0647\u0670",
+        "terjemah": "Taha"
+    },
+    {
+        "nomor": "21",
+        "ayat": "112",
+        "surah": "Al-Anbiya'",
+        "surah_arab": " \u0627\u0644\u0627\u0646\u0628\u064a\u0627\u06e4\u0621",
+        "terjemah": "Para Nabi"
+    },
+    {
+        "nomor": "22",
+        "ayat": "78",
+        "surah": "Al-Hajj",
+        "surah_arab": " \u0627\u0644\u062d\u062c",
+        "terjemah": "Haji"
+    },
+    {
+        "nomor": "23",
+        "ayat": "118",
+        "surah": "Al-Mu'minun",
+        "surah_arab": " \u0627\u0644\u0645\u0624\u0645\u0646\u0648\u0646",
+        "terjemah": "Orang-Orang Mukmin"
+    },
+    {
+        "nomor": "24",
+        "ayat": "64",
+        "surah": "An-Nur",
+        "surah_arab": " \u0627\u0644\u0646\u0651\u0648\u0631",
+        "terjemah": "Cahaya"
+    },
+    {
+        "nomor": "25",
+        "ayat": "77",
+        "surah": "Al-Furqan",
+        "surah_arab": " \u0627\u0644\u0641\u0631\u0642\u0627\u0646",
+        "terjemah": "Pembeda"
+    },
+    {
+        "nomor": "26",
+        "ayat": "227",
+        "surah": "Asy-Syu'ara'",
+        "surah_arab": " \u0627\u0644\u0634\u0639\u0631\u0627\u06e4\u0621",
+        "terjemah": "Para Penyair"
+    },
+    {
+        "nomor": "27",
+        "ayat": "93",
+        "surah": "An-Naml",
+        "surah_arab": " \u0627\u0644\u0646\u0645\u0644",
+        "terjemah": "Semut-semut"
+    },
+    {
+        "nomor": "28",
+        "ayat": "88",
+        "surah": "Al-Qasas",
+        "surah_arab": " \u0627\u0644\u0642\u0635\u0635",
+        "terjemah": "Kisah-Kisah"
+    },
+    {
+        "nomor": "29",
+        "ayat": "69",
+        "surah": "Al-'Ankabut",
+        "surah_arab": " \u0627\u0644\u0639\u0646\u0643\u0628\u0648\u062a",
+        "terjemah": "Laba-Laba"
+    },
+    {
+        "nomor": "30",
+        "ayat": "60",
+        "surah": "Ar-Rum",
+        "surah_arab": " \u0627\u0644\u0631\u0651\u0648\u0645",
+        "terjemah": "Romawi"
+    },
+    {
+        "nomor": "31",
+        "ayat": "34",
+        "surah": "Luqman",
+        "surah_arab": " \u0644\u0642\u0645\u0670\u0646",
+        "terjemah": "Luqman"
+    },
+    {
+        "nomor": "32",
+        "ayat": "30",
+        "surah": "As-Sajdah",
+        "surah_arab": " \u0627\u0644\u0633\u0651\u062c\u062f\u0629",
+        "terjemah": "Sajdah"
+    },
+    {
+        "nomor": "33",
+        "ayat": "73",
+        "surah": "Al-Ahzab",
+        "surah_arab": " \u0627\u0644\u0627\u062d\u0632\u0627\u0628",
+        "terjemah": "Golongan Yang Bersekutu"
+    },
+    {
+        "nomor": "34",
+        "ayat": "54",
+        "surah": "Saba'",
+        "surah_arab": " \u0633\u0628\u0623",
+        "terjemah": "Saba'"
+    },
+    {
+        "nomor": "35",
+        "ayat": "45",
+        "surah": "Fatir",
+        "surah_arab": " \u0641\u0627\u0637\u0631",
+        "terjemah": "Maha Pencipta"
+    },
+    {
+        "nomor": "36",
+        "ayat": "83",
+        "surah": "Yasin",
+        "surah_arab": " \u064a\u0670\u0633\u06e4",
+        "terjemah": "Yasin"
+    },
+    {
+        "nomor": "37",
+        "ayat": "182",
+        "surah": "As-Saffat",
+        "surah_arab": " \u0627\u0644\u0635\u0651\u0670\u06e4\u0641\u0651\u0670\u062a",
+        "terjemah": "Barisan-Barisan"
+    },
+    {
+        "nomor": "38",
+        "ayat": "88",
+        "surah": "Sad",
+        "surah_arab": " \u0635",
+        "terjemah": "Sad"
+    },
+    {
+        "nomor": "39",
+        "ayat": "75",
+        "surah": "Az-Zumar",
+        "surah_arab": " \u0627\u0644\u0632\u0645\u0631",
+        "terjemah": "Rombongan"
+    },
+    {
+        "nomor": "40",
+        "ayat": "85",
+        "surah": "Gafir",
+        "surah_arab": " \u063a\u0627\u0641\u0631",
+        "terjemah": "Maha Pengampun"
+    },
+    {
+        "nomor": "41",
+        "ayat": "54",
+        "surah": "Fussilat",
+        "surah_arab": " \u0641\u0635\u0651\u0644\u062a",
+        "terjemah": "Yang Dijelaskan"
+    },
+    {
+        "nomor": "42",
+        "ayat": "53",
+        "surah": "Asy-Syura",
+        "surah_arab": " \u0627\u0644\u0634\u0648\u0631\u0649",
+        "terjemah": "Musyawarah"
+    },
+    {
+        "nomor": "43",
+        "ayat": "89",
+        "surah": "Az-Zukhruf",
+        "surah_arab": " \u0627\u0644\u0632\u062e\u0631\u0641",
+        "terjemah": "Perhiasan"
+    },
+    {
+        "nomor": "44",
+        "ayat": "59",
+        "surah": "Ad-Dukhan",
+        "surah_arab": " \u0627\u0644\u062f\u062e\u0627\u0646",
+        "terjemah": "Kabut"
+    },
+    {
+        "nomor": "45",
+        "ayat": "37",
+        "surah": "Al-Jasiyah",
+        "surah_arab": " \u0627\u0644\u062c\u0627\u062b\u064a\u0629",
+        "terjemah": "Berlutut"
+    },
+    {
+        "nomor": "46",
+        "ayat": "35",
+        "surah": "Al-Ahqaf",
+        "surah_arab": " \u0627\u0644\u0627\u062d\u0642\u0627\u0641",
+        "terjemah": "Bukit Pasir"
+    },
+    {
+        "nomor": "47",
+        "ayat": "38",
+        "surah": "Muhammad",
+        "surah_arab": " \u0645\u062d\u0645\u0651\u062f",
+        "terjemah": "Muhammad"
+    },
+    {
+        "nomor": "48",
+        "ayat": "29",
+        "surah": "Al-Fath",
+        "surah_arab": " \u0627\u0644\u0641\u062a\u062d",
+        "terjemah": "Kemenangan"
+    },
+    {
+        "nomor": "49",
+        "ayat": "18",
+        "surah": "Al-Hujurat",
+        "surah_arab": " \u0627\u0644\u062d\u062c\u0631\u0670\u062a",
+        "terjemah": "Kamar-Kamar"
+    },
+    {
+        "nomor": "50",
+        "ayat": "45",
+        "surah": "Qaf",
+        "surah_arab": " \u0642",
+        "terjemah": "Qaf"
+    },
+    {
+        "nomor": "51",
+        "ayat": "60",
+        "surah": "Az-Zariyat",
+        "surah_arab": " \u0627\u0644\u0630\u0651\u0670\u0631\u064a\u0670\u062a",
+        "terjemah": "Angin yang Menerbangkan"
+    },
+    {
+        "nomor": "52",
+        "ayat": "49",
+        "surah": "At-Tur",
+        "surah_arab": " \u0627\u0644\u0637\u0648\u0631",
+        "terjemah": "Bukit Tursina"
+    },
+    {
+        "nomor": "53",
+        "ayat": "62",
+        "surah": "An-Najm",
+        "surah_arab": " \u0627\u0644\u0646\u062c\u0645",
+        "terjemah": "Bintang"
+    },
+    {
+        "nomor": "54",
+        "ayat": "55",
+        "surah": "Al-Qamar",
+        "surah_arab": " \u0627\u0644\u0642\u0645\u0631",
+        "terjemah": "Bulan"
+    },
+    {
+        "nomor": "55",
+        "ayat": "78",
+        "surah": "Ar-Rahman",
+        "surah_arab": " \u0627\u0644\u0631\u062d\u0645\u0646",
+        "terjemah": "Maha Pengasih"
+    },
+    {
+        "nomor": "56",
+        "ayat": "96",
+        "surah": "Al-Waqi'ah",
+        "surah_arab": " \u0627\u0644\u0648\u0627\u0642\u0639\u0629",
+        "terjemah": "Hari Kiamat"
+    },
+    {
+        "nomor": "57",
+        "ayat": "29",
+        "surah": "Al-Hadid",
+        "surah_arab": " \u0627\u0644\u062d\u062f\u064a\u062f",
+        "terjemah": "Besi"
+    },
+    {
+        "nomor": "58",
+        "ayat": "22",
+        "surah": "Al-Mujadalah",
+        "surah_arab": " \u0627\u0644\u0645\u062c\u0627\u062f\u0644\u0629",
+        "terjemah": "Gugatan"
+    },
+    {
+        "nomor": "59",
+        "ayat": "24",
+        "surah": "Al-Hasyr",
+        "surah_arab": " \u0627\u0644\u062d\u0634\u0631",
+        "terjemah": "Pengusiran"
+    },
+    {
+        "nomor": "60",
+        "ayat": "13",
+        "surah": "Al-Mumtahanah",
+        "surah_arab": " \u0627\u0644\u0645\u0645\u062a\u062d\u0646\u0629",
+        "terjemah": "Wanita Yang Diuji"
+    },
+    {
+        "nomor": "61",
+        "ayat": "14",
+        "surah": "As-Saff",
+        "surah_arab": " \u0627\u0644\u0635\u0651\u0641\u0651",
+        "terjemah": "Barisan"
+    },
+    {
+        "nomor": "62",
+        "ayat": "11",
+        "surah": "Al-Jumu'ah",
+        "surah_arab": " \u0627\u0644\u062c\u0645\u0639\u0629",
+        "terjemah": "Jumat"
+    },
+    {
+        "nomor": "63",
+        "ayat": "11",
+        "surah": "Al-Munafiqun",
+        "surah_arab": " \u0627\u0644\u0645\u0646\u0670\u0641\u0642\u0648\u0646",
+        "terjemah": "Orang-Orang Munafik"
+    },
+    {
+        "nomor": "64",
+        "ayat": "18",
+        "surah": "At-Tagabun",
+        "surah_arab": " \u0627\u0644\u062a\u063a\u0627\u0628\u0646",
+        "terjemah": "Pengungkapan Kesalahan"
+    },
+    {
+        "nomor": "65",
+        "ayat": "12",
+        "surah": "At-Talaq",
+        "surah_arab": " \u0627\u0644\u0637\u0644\u0627\u0642",
+        "terjemah": "Talak"
+    },
+    {
+        "nomor": "66",
+        "ayat": "12",
+        "surah": "At-Tahrim",
+        "surah_arab": " \u0627\u0644\u062a\u062d\u0631\u064a\u0645",
+        "terjemah": "Pengharaman"
+    },
+    {
+        "nomor": "67",
+        "ayat": "30",
+        "surah": "Al-Mulk",
+        "surah_arab": " \u0627\u0644\u0645\u0644\u0643",
+        "terjemah": "Kerajaan"
+    },
+    {
+        "nomor": "68",
+        "ayat": "52",
+        "surah": "Al-Qalam",
+        "surah_arab": " \u0627\u0644\u0642\u0644\u0645",
+        "terjemah": "Pena"
+    },
+    {
+        "nomor": "69",
+        "ayat": "52",
+        "surah": "Al-Haqqah",
+        "surah_arab": " \u0627\u0644\u062d\u0627\u06e4\u0642\u0651\u0629",
+        "terjemah": "Hari Kiamat"
+    },
+    {
+        "nomor": "70",
+        "ayat": "44",
+        "surah": "Al-Ma'arij",
+        "surah_arab": " \u0627\u0644\u0645\u0639\u0627\u0631\u062c",
+        "terjemah": "Tempat Naik"
+    },
+    {
+        "nomor": "71",
+        "ayat": "28",
+        "surah": "Nuh",
+        "surah_arab": " \u0646\u0648\u062d",
+        "terjemah": "Nuh"
+    },
+    {
+        "nomor": "72",
+        "ayat": "28",
+        "surah": "Al-Jinn",
+        "surah_arab": " \u0627\u0644\u062c\u0646",
+        "terjemah": "Jin"
+    },
+    {
+        "nomor": "73",
+        "ayat": "20",
+        "surah": "Al-Muzzammil",
+        "surah_arab": " \u0627\u0644\u0645\u0632\u0651\u0645\u0651\u0644",
+        "terjemah": "Orang Yang Berselimut"
+    },
+    {
+        "nomor": "74",
+        "ayat": "56",
+        "surah": "Al-Muddassir",
+        "surah_arab": " \u0627\u0644\u0645\u062f\u0651\u062b\u0651\u0631",
+        "terjemah": "Orang Yang Berkemul"
+    },
+    {
+        "nomor": "75",
+        "ayat": "40",
+        "surah": "Al-Qiyamah",
+        "surah_arab": " \u0627\u0644\u0642\u064a\u0670\u0645\u0629",
+        "terjemah": "Hari Kiamat"
+    },
+    {
+        "nomor": "76",
+        "ayat": "31",
+        "surah": "Al-Insan",
+        "surah_arab": " \u0627\u0644\u0627\u0646\u0633\u0627\u0646",
+        "terjemah": "Manusia"
+    },
+    {
+        "nomor": "77",
+        "ayat": "50",
+        "surah": "Al-Mursalat",
+        "surah_arab": " \u0627\u0644\u0645\u0631\u0633\u0644\u0670\u062a",
+        "terjemah": "Malaikat Yang Diutus"
+    },
+    {
+        "nomor": "78",
+        "ayat": "40",
+        "surah": "An-Naba'",
+        "surah_arab": " \u0627\u0644\u0646\u0628\u0623",
+        "terjemah": "Berita Besar"
+    },
+    {
+        "nomor": "79",
+        "ayat": "46",
+        "surah": "An-Nazi'at",
+        "surah_arab": " \u0627\u0644\u0646\u0651\u0670\u0632\u0639\u0670\u062a",
+        "terjemah": "Malaikat Yang Mencabut"
+    },
+    {
+        "nomor": "80",
+        "ayat": "42",
+        "surah": "'Abasa",
+        "surah_arab": " \u0639\u0628\u0633",
+        "terjemah": "Bermuka Masam"
+    },
+    {
+        "nomor": "81",
+        "ayat": "29",
+        "surah": "At-Takwir",
+        "surah_arab": " \u0627\u0644\u062a\u0643\u0648\u064a\u0631",
+        "terjemah": "Penggulungan"
+    },
+    {
+        "nomor": "82",
+        "ayat": "19",
+        "surah": "Al-Infitar",
+        "surah_arab": " \u0627\u0644\u0627\u0646\u0641\u0637\u0627\u0631",
+        "terjemah": "Terbelah"
+    },
+    {
+        "nomor": "83",
+        "ayat": "36",
+        "surah": "Al-Mutaffifin",
+        "surah_arab": " \u0627\u0644\u0645\u0637\u0641\u0651\u0641\u064a\u0646",
+        "terjemah": "Orang-Orang Curang"
+    },
+    {
+        "nomor": "84",
+        "ayat": "25",
+        "surah": "Al-Insyiqaq",
+        "surah_arab": " \u0627\u0644\u0627\u0646\u0634\u0642\u0627\u0642",
+        "terjemah": "Terbelah"
+    },
+    {
+        "nomor": "85",
+        "ayat": "22",
+        "surah": "Al-Buruj",
+        "surah_arab": " \u0627\u0644\u0628\u0631\u0648\u062c",
+        "terjemah": "Gugusan Bintang"
+    },
+    {
+        "nomor": "86",
+        "ayat": "17",
+        "surah": "At-Tariq",
+        "surah_arab": " \u0627\u0644\u0637\u0627\u0631\u0642",
+        "terjemah": "Yang Datang Di Malam Hari"
+    },
+    {
+        "nomor": "87",
+        "ayat": "19",
+        "surah": "Al-A'la",
+        "surah_arab": " \u0627\u0644\u0627\u0639\u0644\u0649",
+        "terjemah": "Maha Tinggi"
+    },
+    {
+        "nomor": "88",
+        "ayat": "26",
+        "surah": "Al-Gasyiyah",
+        "surah_arab": " \u0627\u0644\u063a\u0627\u0634\u064a\u0629",
+        "terjemah": "Hari Kiamat"
+    },
+    {
+        "nomor": "89",
+        "ayat": "30",
+        "surah": "Al-Fajr",
+        "surah_arab": " \u0627\u0644\u0641\u062c\u0631",
+        "terjemah": "Fajar"
+    },
+    {
+        "nomor": "90",
+        "ayat": "20",
+        "surah": "Al-Balad",
+        "surah_arab": " \u0627\u0644\u0628\u0644\u062f",
+        "terjemah": "Negeri"
+    },
+    {
+        "nomor": "91",
+        "ayat": "15",
+        "surah": "Asy-Syams",
+        "surah_arab": " \u0627\u0644\u0634\u0645\u0633",
+        "terjemah": "Matahari"
+    },
+    {
+        "nomor": "92",
+        "ayat": "21",
+        "surah": "Al-Lail",
+        "surah_arab": " \u0627\u0644\u0651\u064a\u0644",
+        "terjemah": "Malam"
+    },
+    {
+        "nomor": "93",
+        "ayat": "11",
+        "surah": "Ad-Duha",
+        "surah_arab": " \u0627\u0644\u0636\u062d\u0649",
+        "terjemah": "Duha"
+    },
+    {
+        "nomor": "94",
+        "ayat": "8",
+        "surah": "Asy-Syarh",
+        "surah_arab": " \u0627\u0644\u0634\u0631\u062d",
+        "terjemah": "Lapang"
+    },
+    {
+        "nomor": "95",
+        "ayat": "8",
+        "surah": "At-Tin",
+        "surah_arab": " \u0627\u0644\u062a\u064a\u0646",
+        "terjemah": "Buah Tin"
+    },
+    {
+        "nomor": "96",
+        "ayat": "19",
+        "surah": "Al-'Alaq",
+        "surah_arab": " \u0627\u0644\u0639\u0644\u0642",
+        "terjemah": "Segumpal Darah"
+    },
+    {
+        "nomor": "97",
+        "ayat": "5",
+        "surah": "Al-Qadr",
+        "surah_arab": " \u0627\u0644\u0642\u062f\u0631",
+        "terjemah": "Kemuliaan"
+    },
+    {
+        "nomor": "98",
+        "ayat": "8",
+        "surah": "Al-Bayyinah",
+        "surah_arab": " \u0627\u0644\u0628\u064a\u0651\u0646\u0629",
+        "terjemah": "Bukti Nyata"
+    },
+    {
+        "nomor": "99",
+        "ayat": "8",
+        "surah": "Az-Zalzalah",
+        "surah_arab": " \u0627\u0644\u0632\u0644\u0632\u0644\u0629",
+        "terjemah": "Guncangan"
+    },
+    {
+        "nomor": "100",
+        "ayat": "11",
+        "surah": "Al-'Adiyat",
+        "surah_arab": " \u0627\u0644\u0639\u0670\u062f\u064a\u0670\u062a",
+        "terjemah": "Kuda Yang Berlari Kencang"
+    },
+    {
+        "nomor": "101",
+        "ayat": "11",
+        "surah": "Al-Qari'ah",
+        "surah_arab": " \u0627\u0644\u0642\u0627\u0631\u0639\u0629",
+        "terjemah": "Hari Kiamat"
+    },
+    {
+        "nomor": "102",
+        "ayat": "8",
+        "surah": "At-Takasur",
+        "surah_arab": " \u0627\u0644\u062a\u0643\u0627\u062b\u0631",
+        "terjemah": "Bermegah-Megahan"
+    },
+    {
+        "nomor": "103",
+        "ayat": "3",
+        "surah": "Al-'Asr",
+        "surah_arab": " \u0627\u0644\u0639\u0635\u0631",
+        "terjemah": "Asar"
+    },
+    {
+        "nomor": "104",
+        "ayat": "9",
+        "surah": "Al-Humazah",
+        "surah_arab": " \u0627\u0644\u0647\u0645\u0632\u0629",
+        "terjemah": "Pengumpat"
+    },
+    {
+        "nomor": "105",
+        "ayat": "5",
+        "surah": "Al-Fil",
+        "surah_arab": " \u0627\u0644\u0641\u064a\u0644",
+        "terjemah": "Gajah"
+    },
+    {
+        "nomor": "106",
+        "ayat": "4",
+        "surah": "Quraisy",
+        "surah_arab": " \u0642\u0631\u064a\u0634",
+        "terjemah": "Quraisy"
+    },
+    {
+        "nomor": "107",
+        "ayat": "7",
+        "surah": "Al-Ma'un",
+        "surah_arab": " \u0627\u0644\u0645\u0627\u0639\u0648\u0646",
+        "terjemah": "Barang Yang Berguna"
+    },
+    {
+        "nomor": "108",
+        "ayat": "3",
+        "surah": "Al-Kausar",
+        "surah_arab": " \u0627\u0644\u0643\u0648\u062b\u0631",
+        "terjemah": "Pemberian Yang Banyak"
+    },
+    {
+        "nomor": "109",
+        "ayat": "6",
+        "surah": "Al-Kafirun",
+        "surah_arab": " \u0627\u0644\u0643\u0670\u0641\u0631\u0648\u0646",
+        "terjemah": "Orang-Orang kafir"
+    },
+    {
+        "nomor": "110",
+        "ayat": "3",
+        "surah": "An-Nasr",
+        "surah_arab": " \u0627\u0644\u0646\u0635\u0631",
+        "terjemah": "Pertolongan"
+    },
+    {
+        "nomor": "111",
+        "ayat": "5",
+        "surah": "Al-Lahab",
+        "surah_arab": " \u0627\u0644\u0644\u0647\u0628",
+        "terjemah": "Api Yang Bergejolak"
+    },
+    {
+        "nomor": "112",
+        "ayat": "4",
+        "surah": "Al-Ikhlas",
+        "surah_arab": " \u0627\u0644\u0627\u062e\u0644\u0627\u0635",
+        "terjemah": "Ikhlas"
+    },
+    {
+        "nomor": "113",
+        "ayat": "5",
+        "surah": "Al-Falaq",
+        "surah_arab": " \u0627\u0644\u0641\u0644\u0642",
+        "terjemah": "Subuh"
+    },
+    {
+        "nomor": "114",
+        "ayat": "6",
+        "surah": "An-Nas",
+        "surah_arab": " \u0627\u0644\u0646\u0627\u0633",
+        "terjemah": "Manusia"
+    }
+]
